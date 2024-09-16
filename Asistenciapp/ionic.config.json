@@ -1,0 +1,7 @@
+{
+  "name": "Asistenciapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
